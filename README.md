@@ -1,2 +1,2 @@
-# notes
-Misc Notes From Scripting Practice
+# Notes
+Misc Notes for Training
