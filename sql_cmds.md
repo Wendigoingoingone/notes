@@ -11,4 +11,4 @@
 `select * from wp_users\G`
 * Select sepecfic column(s) from database.table:
 `select user,host from msql.user;`
-* MySQL commands must end in ; - \G displays more human readable output
+* MySQL commands must end in `;` - `\G` displays more human readable output
